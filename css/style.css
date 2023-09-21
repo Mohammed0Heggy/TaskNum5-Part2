@@ -28,7 +28,7 @@ body {
   display: flex;
   flex-direction: column;
   width: 80%;
-  margin-left: 200px;
+  margin-left: 280px;
 }
 
 .line {
@@ -45,9 +45,7 @@ body {
 
 .input {
   display: flex;
-  width: 1000px;
-  /* align-items: end; */
-
+  /* width: 1000px; */
 }
 
 .body input,
@@ -64,23 +62,35 @@ select {
 
 .gender {
   width: 1000px;
-  margin-left: 100px;
+  margin-left: 77px;
 }
 
 .radio {
   margin-right: 0;
-  margin-left: -30px !important;
+  margin-left: -70px !important;
   height: 20px !important;
-  /* width: 200px !important; */
+  width: 200px !important;
+}
+
+label {
+  margin-right: 50px;
 }
 
 .g-lable {
-  margin-right: 400px;
+  /* margin-right: 400px; */
 }
 
 .drop {
   /* margin-right: -100px; */
   width: 93.5%;
+}
+
+/* .country {
+  margin-left: 100px;
+} */
+.agree {
+  display: flex;
+  justify-content: center;
 }
 
 .footer {
