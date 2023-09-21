@@ -45,7 +45,6 @@ body {
 
 .input {
   display: flex;
-  /* width: 1000px; */
 }
 
 .body input,
@@ -76,18 +75,11 @@ label {
   margin-right: 50px;
 }
 
-.g-lable {
-  /* margin-right: 400px; */
-}
 
 .drop {
-  /* margin-right: -100px; */
   width: 93.5%;
 }
 
-/* .country {
-  margin-left: 100px;
-} */
 .agree {
   display: flex;
   justify-content: center;
